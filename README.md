@@ -11,4 +11,4 @@ Para instalar basta arrastar as pastas para raiz do seu opencart.<br><br>
 <a href="https://prnt.sc/bI3wltOKjHI-" target="_blank">Compra finalizada</a>
 <hr><br>
 Não foi criado um ocmod para instalação automatica, pois foi modificado alguns diretórios fora da core da opencart v3 (isso não afeta em nada o funcionamento da cms indepente do template que estiver utilizando. Inclusive torna-se mais fácil a manutenção no código).<br>
-Qualquer duvida ou sujestão de melhoria, entrar em contato com <a href="mailto:gabrielaparecido344@gmail.com">Phoenix</a>
+Qualquer duvida ou sugestão de melhoria, entrar em contato com <a href="mailto:gabrielaparecido344@gmail.com">Phoenix</a>
